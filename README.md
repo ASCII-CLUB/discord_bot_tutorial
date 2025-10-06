@@ -19,7 +19,7 @@ pip install python-dotenv
 ## Project setup
 1. Create a new project folder or clone this repository
 2. Inside the folder, create a Python script (main.py) for your bot's code
-3. Create a Discord sever to test your bot (or use one you already have) 
+3. Create a Discord server to test your bot (or use one you already have) 
 
 ## Bot setup
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
