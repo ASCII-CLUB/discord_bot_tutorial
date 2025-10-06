@@ -55,3 +55,4 @@ TOKEN='your_unique_token_here'
 - [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/)
 - [Discord.py Learning Guide](https://www.pythondiscord.com/pages/guides/python-guides/discordpy/)
 - [Discord.py GitHub Repository](https://github.com/Rapptz/discord.py)
+- [Helpful Examples](https://github.com/GreatTaku/Discord-Bot-Examples/)
